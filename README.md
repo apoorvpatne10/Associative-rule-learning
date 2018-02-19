@@ -18,7 +18,7 @@ Association rules analysis is a technique to uncover how items are associated to
 
 # Summary of dataset #
 
-A summary of dataset that I've used is consisting of 7500 transactions and 120 different grocery items as shown below:
+A summary of dataset that I've used is consisting of 7500 transactions and 120 different(in a week) grocery items as shown below:
 
 ![alt text](https://i.imgur.com/Sd3kKtc.png)
 
