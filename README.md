@@ -8,3 +8,10 @@ When we go grocery shopping, we often have a standard list of things to buy. Eac
 * Advertisements on X could be targeted at buyers who purchase Y.
 * X and Y could be combined into a new product, such as having Y in flavors of X.
 
+So we need some principle or an idea to optimize the sales so that there's mutual satisfaction between the customer and the shop. That is, both are happy with what they've got and that's where Associative Learning comes to play.
+
+Association rules analysis is a technique to uncover how items are associated to each other. There are three common ways to measure association:
+
+1. Support
+2. Confidence and 
+3. Lift
