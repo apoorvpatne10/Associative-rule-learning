@@ -26,12 +26,14 @@ Matrix in sparse format with
  and a density of 0.03288973 meaning the sparse matrix has 3.28% of non-zero values
 
 **most frequent items:**
+
 mineral water          eggs     spaghetti  french fries     chocolate 
          1788          1348          1306          1282          1229 
       (Other) 
         22405 
 
 **element (itemset/transaction) length distribution:**
+
 sizes
    1    2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   18   19   20 
 1754 1358 1044  816  667  493  391  324  259  139  102   67   40   22   17    4    1    2    1 
@@ -40,6 +42,7 @@ sizes
 1754
 
 **some more stats**
+
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
   1.000   2.000   3.000   3.914   5.000  20.000 
 
