@@ -26,3 +26,6 @@ Transactions as item
 Matrix in sparse format with 7501 rows (elements/itemsets/transactions), 119 columns (items) and a density of 0.03288973 meaning the sparse matrix has 3.28% of non-zero values.
 
 (1 1754) : meaning that there were 1754 baskets with only 1 product. 
+
+# Most purchased grocery prouducts
+![alt text](https://i.imgur.com/6mxGiQT.png)
